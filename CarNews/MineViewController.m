@@ -18,6 +18,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //添加一行备注测试
     [self clear];
 }
 
